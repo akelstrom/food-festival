@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an app called Food Festival, it was an exsisting appication, and the client was looking for help with two main blockers. The client needed a fast and performant application, especially on mobile, because the app is designed for event attendees who will be using it on their phones.
+This is an app called Food Festival. The client was looking for help with two main blockers. A fast and performant application, especially on mobile, because the app is designed for event attendees who will be using it on their phones. And to transform the app into a PWA. 
 
 I used Google's Lighthouse web auditing tool to investigate metrics and performance issues with the app, and implemented a few strategies to make improvements. For example, I used Webpack to make the production code more efficient, and also used it to automatically minify the JavaScript files and images.
 
